@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Faith Boluwatife
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Data science and artificial intelligence 
-- 💞️ I’m looking to collaborate on Data projects
+I am an inspired data scientists, driven by the insights I hope to get from any data set I work on.
+I am skilled in Excel,SQL,Python and Power Bi.With these tools;cleaning,manipulating,processing and visualization of data to draw insights that can be used to develop results becomes a reality .There is no better way to tell a story than this ,to me.
+
+https://github.com/MissTife
+
 - 📫 How to reach me faithboluwatife03@gmail.com
 
 <!---
