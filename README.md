@@ -1,6 +1,6 @@
-I am an inspired data scientists, driven by the insights I hope to get from any data set I work on.
-I am skilled in Excel,SQL,Python and Power Bi.With these tools;cleaning,manipulating,processing and visualization of data to draw insights that can be used to develop results becomes a reality .There is no better way to tell a story than this ,to me.
-
+I am a Data scientist,inspired by the insights I hope to get from any data I work on and more importantly,
+I am interested in how this insights can be utilized and applied for growth and development in the ecosystem that we live in. 
+I am well skilled in using Excel, Python, R, SQL and Power Bi and Google tools for Cleaning,Processing,Building models,Visualization and Presentation of Data Projects. @MissTife
 https://github.com/MissTife
 
 - 📫 How to reach me faithboluwatife03@gmail.com
